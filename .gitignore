@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### ReactNative ###
 # React Native Stack Base
 .expo
@@ -15,3 +16,19 @@ jspm_packages/
 
 #vscode
 .vscode
+=======
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+>>>>>>> 833f505c76dc57f463c1d40cb3cc189c7538a890

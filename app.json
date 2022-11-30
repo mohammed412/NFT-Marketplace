@@ -1,10 +1,19 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "pronef",
     "slug": "pronef",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+=======
+    "name": "mp",
+    "slug": "mp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+>>>>>>> 833f505c76dc57f463c1d40cb3cc189c7538a890
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
